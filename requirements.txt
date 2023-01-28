@@ -1,0 +1,77 @@
+asgiref==3.6.0
+asn1crypto==1.5.1
+astroid==2.13.3
+attrs==22.2.0
+autobahn==23.1.1
+Automat==22.10.0
+autopep8==2.0.1
+brotlipy==0.7.0
+certifi==2022.12.7
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b0qzba5nr/croot/cffi_1670423213150/work
+chardet==3.0.4
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.6
+conda==22.11.1
+conda-content-trust @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0afea0f9-bbf5-446c-8d60-8151cc05b029p0nco1nn/croots/recipe/conda-content-trust_1658126375910/work
+conda-package-handling @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9an_ntrizz/croot/conda-package-handling_1666940386489/work
+constantly==15.1.0
+cryptography==38.0.4
+defusedxml==0.7.1
+dill==0.3.6
+distlib==0.3.6
+Django==4.1.5
+django-allauth==0.52.0
+django-bootstrap3==22.2
+django-braces==1.15.0
+django-countries==7.5
+django-crispy-forms==1.14.0
+django-misaka==0.2.1
+django-tinymce4-lite==1.8.0
+filelock==3.9.0
+gunicorn==20.1.0
+houdini.py==0.1.0
+hyperlink==21.0.0
+idna==2.8
+incremental==22.10.0
+isort==5.11.4
+jsmin==3.0.1
+lazy-object-proxy==1.9.0
+mccabe==0.7.0
+misaka==2.1.1
+oauthlib==3.2.2
+pep8==1.7.1
+Pillow==9.4.0
+platformdirs==2.6.2
+pluggy @ file:///opt/concourse/worker/volumes/live/8277900c-164a-49c8-6f2a-f55c3c0154be/volume/pluggy_1648042581708/work
+psycopg2==2.9.5
+pycodestyle==2.10.0
+pycosat @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ebsmghz9nu/croot/pycosat_1666805511853/work
+pycparser==2.21
+Pygments==2.14.0
+PyHamcrest==2.0.4
+PyJWT==2.6.0
+pylint==2.15.10
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///Users/builder/ci_310/pysocks_1642536366386/work
+python3-openid==3.1.0
+pytz==2018.5
+requests==2.22.0
+requests-oauthlib==1.2.0
+ruamel.yaml @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7de1zqcaou/croot/ruamel.yaml_1666304553877/work
+ruamel.yaml.clib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7s0zxy4t2/croot/ruamel.yaml.clib_1666302244557/work
+six==1.12.0
+sqlparse==0.2.4
+stripe==2.37.1
+tomli==2.0.1
+tomlkit==0.11.6
+toolz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7gkswah88/croot/toolz_1667464082910/work
+tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2adqcbsqqd/croots/recipe/tqdm_1664392689227/work
+txaio==23.1.1
+typed-ast==1.5.4
+typing_extensions==4.4.0
+urllib3==1.25.9
+virtualenv==20.17.1
+virtualenvwrapper-win==1.2.5
+whitenoise==6.3.0
+wrapt==1.11.2
+zope.interface==5.5.2
