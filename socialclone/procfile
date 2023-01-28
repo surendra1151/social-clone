@@ -1,1 +1,0 @@
-web: gunicorn SOCIALCLONE.wsgi --log-file -
